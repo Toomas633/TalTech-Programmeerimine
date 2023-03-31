@@ -1,2 +1,2 @@
 # TalTech-Programmeerimine
-School repo for Programmeerimine (c++)
+School repo for programming lessons (c++)
