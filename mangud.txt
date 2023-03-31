@@ -1,0 +1,15 @@
+Nimi:Toomas
+1. PRIME
+       ?
+2. BENDS
+    ?  +
+3. DRESS
+     +++
+4. BLESS
+     +++
+5. TRESS
+     +++
+6. GUESS
+     +++
+Lahendati: Ei
+
